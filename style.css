@@ -1,0 +1,32 @@
+
+ 
+body {
+	font-size: 20px;
+	font-family: 'Cambria', sans-serif;
+	line-height:1.5;
+	background: #DCB6D5;
+	color: #212227;
+	width: 80%;
+	padding: 4%;
+	text-align: center;
+}
+
+
+.list {
+	font-size: 16px;
+	font-weight: 50;
+}
+
+.p2 {
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: center;
+}
+
+img {
+	border: 3px solid black;
+	width: 500px;
+	height: 500px;
+	box-shadow: gray 0 0 10px;
+	border-radius: 0%;
+}
